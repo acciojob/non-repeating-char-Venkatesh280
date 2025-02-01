@@ -14,7 +14,7 @@ function firstNonRepeatedChar(str) {
         }
     }
     // If no non-repeated character is found, return a message
-    return "No non-repeated character found";
+   return "null";
 }
 
 const input = prompt("Enter a string");
